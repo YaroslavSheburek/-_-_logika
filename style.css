@@ -1,0 +1,130 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+border:10px solid #0000FF; 
+border-radius: 15px;
+padding:20px;
+}
+
+
+
+header a {
+text-decoration:none;
+background-color:darkblue;
+color:white;
+margin-bottom:20px;
+padding:10px;
+border-radius:10px
+}
+
+
+h1{
+color:purple;
+
+
+}
+
+
+footer p {
+background-color:#00FF00;
+color:black;
+
+
+
+}
+
+
+nav a {
+background-color:darkblue;
+color:white;
+padding:4px;
+border-radius:10px;
+margin:10px;
+text-decoration:none;
+
+}
+
+
+nav {
+margin:20px;
+
+
+}
+
+
+
+#Produkt {
+color:darkblue;
+padding:4px;
+border-radius:10px;
+margin:10px;
+text-decoration:none;
+background-color:white;
+border:5px solid darkblue ;
+}
+
+
+
+#price {
+
+
+
+}
+
+.firework {
+background-color:lightgreen;
+padding:5px;
+
+
+}
+
+#discount {
+color:blue;
+
+
+}
+
+
+
+.contacts {
+text-decoration: none;
+border:5px solid darkblue;
+margin:10px;
+padding:10px;
+}
+
+
+
+#wholesale {
+color:blue;
+
+}
+
+
+
+#about_us {
+color:blue;
+
+
+
+}
+
+
+
+.button {
+text-decoration:none;
+
+border:5px solid darkblue;
+padding:10px;
+
+
+
+}
+
+
+
+
+
+
